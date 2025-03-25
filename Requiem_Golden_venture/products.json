@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Integral bread",
+        "code": "IB100",
+        "category": "bread",
+        "stock": 10,
+        "price": 3.99
+    },
+    {
+        "name": "cornstarch bread",
+        "code": "CSB200",
+        "category": "bread",
+        "stock": 10,
+        "price": 2.99
+    },
+    {
+        "name": "dark chocolate",
+        "code": "DC300",
+        "category": "chocolate",
+        "stock": 3,
+        "price": 5.99
+    }
+]

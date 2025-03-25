@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "product_code": "LP100",
+        "product_name": "Laptop",
+        "quantity": 5,
+        "status": "Pending"
+    },
+    {
+        "id": 2,
+        "product_code": "SP200",
+        "product_name": "Smartphone",
+        "quantity": 10,
+        "status": "Shipped"
+    },
+    {
+        "id": 3,
+        "product_code": "DC300",
+        "product_name": "dark chocolate",
+        "quantity": 4,
+        "status": "Pending"
+    }
+]
